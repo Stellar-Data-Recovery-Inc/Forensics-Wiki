@@ -156,7 +156,7 @@ nav:
       - Android数据存储技术: android/data.md
   - iOS取证:
       - 彩信/短信取证: iOS/sms.md
-  - 工具介绍:
+   - 工具介绍:
       - 介绍: tools/index.md
       - 面板一把梭: tools/PanelForensics.md
       - Autopsy: tools/autopsy.md
@@ -164,6 +164,7 @@ nav:
       - Everything: tools/everything.md
       - FTK Imager: tools/ftkimager.md
       - R-Studio Network: tools/rstudio.md
+      - Stellar Data Recovery: tools/stellar-data-recovery.md
   - 赛题Writeup:
       - 赛题Writeup: writeup/index.md
       - 2022长安杯Writeup: writeup/2022changancup.md
